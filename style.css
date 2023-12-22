@@ -1,0 +1,106 @@
+*{
+    margin:0px;
+    padding: 0px;
+
+}
+body{
+    background-color: bisque;
+    /* background-image: url(Background-image/wpp.webp); */
+    width: 100%;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+  }
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .topnav a.active {
+    background-color: #2196F3;
+    color: white;
+  }
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  }
+.container{
+    background-color: rgb(243, 149, 157);
+    height: 200px;
+    width: 50%;
+    margin-top: 0.2%;
+    
+    border-radius: 20px;
+    
+}
+.container{
+  margin-right: 70%;
+}
+.container .Home{
+    display: flex;
+    text-decoration-color:white ;
+    padding: 5px;
+    justify-content: center;
+}
+.container .Service{
+    display: flex;
+    text-decoration-color:white ;
+    padding: 5px;
+    justify-content: center;
+}
+.container .Solution{
+    display: flex;
+    text-decoration-color:white ;
+    padding: 5px;
+    justify-content: center;
+}
+
+.container .Report{
+    display: flex;
+    text-decoration-color:white ;
+    padding: 5px;
+    justify-content: center;
+}
+.container .About{
+    display: flex;
+    text-decoration-color:white ;
+    padding: 5px;
+    justify-content: center;
+}
+.container .Help{
+    display: flex;
+    text-decoration-color:white ;
+    padding: 5px;
+    justify-content: center;
+}
+.container2{
+  background-color: transparent;
+  margin-right: 826px;
+  padding-right: 5px;
+  height: 500px;
+  margin-top: 70px;
+  margin-left: 1px;
+  -ms-zoom-animation: 10px;
+}
+.kalu{
+  background-color: rgb(110, 169, 236);
+  width: 240px;
+  height: 303px;
+  margin-left: 2%;
+  margin-top: 0.1%;
+}
+
